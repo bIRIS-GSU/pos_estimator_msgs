@@ -1,0 +1,2 @@
+geometry_msgs/Pose2D odom_location
+geometry_msgs/Pose2D actual_location

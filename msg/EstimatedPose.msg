@@ -1,0 +1,2 @@
+geometry_msgs/Pose2D estimated_pose
+float32 confidence
