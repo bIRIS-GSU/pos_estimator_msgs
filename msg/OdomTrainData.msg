@@ -1,2 +1,2 @@
-geometry_msgs/Pose2D odom_location
-geometry_msgs/Pose2D actual_location
+geometry_msgs/Pose2D odom_pose
+geometry_msgs/Pose2D estimated_pose
