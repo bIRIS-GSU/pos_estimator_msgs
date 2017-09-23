@@ -1,1 +1,1 @@
-geometry_msgs/Pose2D odom_data_point
+geometry_msgs/Pose2D odom_location
